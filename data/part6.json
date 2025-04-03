@@ -1,0 +1,58 @@
+[
+    {
+        "citation": "Article 4.41",
+        "section": "4.41",
+        "title": "Parking Near a Fire Hall",
+        "summary": "Prohibits parking within 30 meters of a fire hall or adjacent property, where signage indicates.",
+        "keywords": ["fire hall parking", "parking restriction", "public safety"]
+    },
+    {
+        "citation": "Article 4.42",
+        "section": "4.42",
+        "title": "Parking Near Parks and Playgrounds",
+        "summary": "Prohibits parking on roads adjacent to parks or playgrounds where indicated by signage.",
+        "keywords": ["park parking", "playground safety", "restricted parking zones"]
+    },
+    {
+        "citation": "Article 4.43",
+        "section": "4.43",
+        "title": "Parking Near a Dead End",
+        "summary": "Prohibits parking within 15 meters of the end of the roadway on a dead-end street.",
+        "keywords": ["dead-end parking", "roadway restriction", "parking enforcement"]
+    },
+    {
+        "citation": "Article 4.44",
+        "section": "4.44",
+        "title": "Parking on Narrow Roadways",
+        "summary": "Prohibits parking on roadways less than 6 meters wide where signage indicates restrictions.",
+        "keywords": ["narrow road parking", "road safety", "parking restriction"]
+    },
+    {
+        "citation": "Article 4.45",
+        "section": "4.45",
+        "title": "Parking Certain Commercial Motor Vehicles",
+        "summary": "Prohibits parking of large commercial vehicles exceeding 2.6 meters in width or 7 meters in length, except in industrial areas or designated loading zones.",
+        "keywords": ["commercial vehicle parking", "large vehicle restriction", "parking regulation"]
+    },
+    {
+        "citation": "Article 4.46",
+        "section": "4.46",
+        "title": "Parking Prohibited When Control Device Covered",
+        "summary": "Prohibits parking in a space if the parking meter or control device is covered, indicating non-availability.",
+        "keywords": ["parking meter covered", "parking prohibition", "metered parking rules"]
+    },
+    {
+        "citation": "Article 4.47",
+        "section": "4.47",
+        "title": "Fees for Parking",
+        "summary": "Requires vehicles to pay applicable parking fees in designated metered spaces.",
+        "keywords": ["parking fees", "metered parking", "paid parking rules"]
+    },
+    {
+        "citation": "Article 4.48",
+        "section": "4.48",
+        "title": "Counterfeit Parking Payment",
+        "summary": "Prohibits depositing unauthorized substitutes for valid parking payments into parking meters or control devices.",
+        "keywords": ["parking fraud", "counterfeit payment", "metered parking"]
+    }
+]

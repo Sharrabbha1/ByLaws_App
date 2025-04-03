@@ -1,0 +1,58 @@
+[
+    {
+        "citation": "Article 4.25",
+        "section": "4.25",
+        "title": "Stopping Within School Areas",
+        "summary": "Prohibits stopping a vehicle at any time in designated school areas where signage indicates restrictions.",
+        "keywords": ["school zone", "no stopping", "child safety"]
+    },
+    {
+        "citation": "Article 4.26",
+        "section": "4.26",
+        "title": "Stopping Near School Crossings",
+        "summary": "Prohibits stopping within 30 meters before and 15 meters after a designated school crossing.",
+        "keywords": ["school crossing", "pedestrian safety", "stopping restriction"]
+    },
+    {
+        "citation": "Article 4.27",
+        "section": "4.27",
+        "title": "Vending Vehicles Parking Restrictions",
+        "summary": "Prohibits vending vehicles from parking on highways, parking lots, or parkades without prior authorization.",
+        "keywords": ["vending vehicle", "commercial vehicle parking", "parking restriction"]
+    },
+    {
+        "citation": "Article 4.28",
+        "section": "4.28",
+        "title": "Boulevard Parking",
+        "summary": "Prohibits parking on or over a boulevard unless explicitly authorized by signage.",
+        "keywords": ["boulevard parking", "sidewalk encroachment", "parking violation"]
+    },
+    {
+        "citation": "Article 4.29",
+        "section": "4.29",
+        "title": "Parking Near Driveways",
+        "summary": "Prohibits parking in front of or within 2 meters of a driveway.",
+        "keywords": ["driveway parking", "access obstruction", "parking distance"]
+    },
+    {
+        "citation": "Article 4.30",
+        "section": "4.30",
+        "title": "Obstructing a Driveway",
+        "summary": "Prohibits parking in a manner that obstructs or is likely to obstruct vehicles using a driveway.",
+        "keywords": ["driveway obstruction", "parking restriction", "access block"]
+    },
+    {
+        "citation": "Article 4.31",
+        "section": "4.31",
+        "title": "Parking Near a Fire Hydrant",
+        "summary": "Prohibits parking within 3 meters of a fire hydrant.",
+        "keywords": ["fire hydrant", "parking restriction", "emergency access"]
+    },
+    {
+        "citation": "Article 4.32",
+        "section": "4.32",
+        "title": "Parking Near an Intersection",
+        "summary": "Prohibits parking within 10 meters of an intersection, or up to 30 meters where indicated by signage.",
+        "keywords": ["intersection parking", "safety regulation", "parking restriction"]
+    }
+]

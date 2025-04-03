@@ -1,0 +1,58 @@
+[
+    {
+        "citation": "Article 4.33",
+        "section": "4.33",
+        "title": "Vehicles for Sale on Public Roads",
+        "summary": "Prohibits parking vehicles on highways or municipal lots for the purpose of displaying them for sale.",
+        "keywords": ["vehicle sales", "parking restriction", "public road usage"]
+    },
+    {
+        "citation": "Article 4.34",
+        "section": "4.34",
+        "title": "Vehicle Repairs on Public Property",
+        "summary": "Prohibits performing vehicle repairs, washing, or greasing on public highways or municipal parking lots, except in emergencies.",
+        "keywords": ["vehicle repair", "public property", "parking lot rules"]
+    },
+    {
+        "citation": "Article 4.35",
+        "section": "4.35",
+        "title": "Parking Near Railways",
+        "summary": "Prohibits parking within 30 meters before and 15 meters after a railway crossing, as well as within 4 meters of railway tracks.",
+        "keywords": ["railway parking", "safety rules", "railway crossing"]
+    },
+    {
+        "citation": "Article 4.36",
+        "section": "4.36",
+        "title": "Interference with Other Parked Vehicles",
+        "summary": "Prohibits parking in a manner that prevents or is likely to prevent the removal of other parked vehicles.",
+        "keywords": ["parking obstruction", "vehicle removal", "parking restriction"]
+    },
+    {
+        "citation": "Article 4.37",
+        "section": "4.37",
+        "title": "General Time Limit for Parking",
+        "summary": "Restricts parking to no more than 3 hours on highways unless otherwise indicated by signage.",
+        "keywords": ["parking time limit", "3-hour parking", "parking restriction"]
+    },
+    {
+        "citation": "Article 4.38",
+        "section": "4.38",
+        "title": "Seasonal Parking Restrictions",
+        "summary": "Prohibits parking on highways between 2 AM and 6 AM from December 1st to April 1st.",
+        "keywords": ["seasonal parking", "winter parking ban", "overnight parking"]
+    },
+    {
+        "citation": "Article 4.39",
+        "section": "4.39",
+        "title": "Parking During Highway Repairs",
+        "summary": "Prohibits parking on any highway that has been temporarily closed for repairs or construction.",
+        "keywords": ["road repairs", "parking restriction", "construction zone parking"]
+    },
+    {
+        "citation": "Article 4.40",
+        "section": "4.40",
+        "title": "Parking Near Public Use Buildings",
+        "summary": "Prohibits parking within 6 meters of entrances or exits to hotels, theatres, and public halls.",
+        "keywords": ["public building parking", "restricted parking", "access regulation"]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "citation": "Article 9.1",
+        "section": "9.1",
+        "title": "Designated Parking Lots and Parkades",
+        "summary": "Designates specific parking lots and parkades under city control where parking is regulated.",
+        "keywords": ["municipal parking", "designated parking lots", "parking regulation"]
+    },
+    {
+        "citation": "Article 9.4",
+        "section": "9.4",
+        "title": "Paid Parking in Municipal Parking Lots",
+        "summary": "Requires a fee for parking in designated municipal parking lots during specific hours.",
+        "keywords": ["paid parking", "parking lot fee", "municipal parking"]
+    },
+    {
+        "citation": "Article 10.1",
+        "section": "10.1",
+        "title": "Metered Parking Rules",
+        "summary": "Requires vehicles to pay at designated parking meters and adhere to posted time limits.",
+        "keywords": ["metered parking", "parking fees", "time limit enforcement"]
+    },
+    {
+        "citation": "Article 11.1",
+        "section": "11.1",
+        "title": "Unauthorized Parking in a Loading Zone",
+        "summary": "Prohibits non-commercial vehicles from parking in a designated loading zone.",
+        "keywords": ["loading zone", "commercial vehicle parking", "restricted parking"]
+    },
+    {
+        "citation": "Article 12.1",
+        "section": "12.1",
+        "title": "Unauthorized Parking in a Taxicab Stand",
+        "summary": "Prohibits non-taxi vehicles from stopping or parking in designated taxi stands.",
+        "keywords": ["taxicab stand", "taxi parking", "restricted zone"]
+    },
+    {
+        "citation": "Article 14.1",
+        "section": "14.1",
+        "title": "Illegal Turning Movements",
+        "summary": "Prohibits turning vehicles in specific restricted directions where signage indicates.",
+        "keywords": ["illegal turns", "road safety", "turning restriction"]
+    },
+    {
+        "citation": "Article 14.2",
+        "section": "14.2",
+        "title": "U-Turn Prohibition",
+        "summary": "Prohibits making U-turns at designated locations where signage indicates restrictions.",
+        "keywords": ["U-turn ban", "road safety", "intersection rules"]
+    }
+]

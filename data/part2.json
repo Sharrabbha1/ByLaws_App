@@ -1,0 +1,58 @@
+[
+    {
+        "citation": "Article 4.9",
+        "section": "4.9",
+        "title": "Right-Side-of-Road Parking Where Curb Exists",
+        "summary": "Requires vehicles parked on the right-hand side to be parallel to the curb and within 15 cm.",
+        "keywords": ["right-side parking", "curb parking", "parallel parking"]
+    },
+    {
+        "citation": "Article 4.10",
+        "section": "4.10",
+        "title": "Right-Side-of-Road Parking Without Curb",
+        "summary": "Requires vehicles on the right-hand side without a curb to be parallel to the roadway edge within 15 cm.",
+        "keywords": ["curb-less parking", "right-side parking", "roadside parking"]
+    },
+    {
+        "citation": "Article 4.11",
+        "section": "4.11",
+        "title": "Left-Side-of-Road Parking Where Curb Exists",
+        "summary": "Permits left-side parking on one-way roads with curbs, ensuring vehicles are parallel and within 15 cm.",
+        "keywords": ["left-side parking", "one-way road", "curb parking"]
+    },
+    {
+        "citation": "Article 4.12",
+        "section": "4.12",
+        "title": "Left-Side-of-Road Parking Without Curb",
+        "summary": "Allows vehicles to park on the left side of one-way roads without curbs, within 15 cm of the road edge.",
+        "keywords": ["left-side parking", "one-way road", "no curb parking"]
+    },
+    {
+        "citation": "Article 4.13",
+        "section": "4.13",
+        "title": "Angle Parking Exemption",
+        "summary": "Specifies that right/left-side parallel parking rules do not apply where angle parking is explicitly permitted.",
+        "keywords": ["angle parking", "parking exemptions", "parallel parking rule"]
+    },
+    {
+        "citation": "Article 4.14",
+        "section": "4.14",
+        "title": "Stopping on Sidewalks",
+        "summary": "Prohibits stopping vehicles such that any part of the vehicle is on or over a sidewalk.",
+        "keywords": ["sidewalk obstruction", "pedestrian safety", "stopping rules"]
+    },
+    {
+        "citation": "Article 4.15",
+        "section": "4.15",
+        "title": "Stopping in an Intersection or Crosswalk",
+        "summary": "Prohibits stopping a vehicle within an intersection or on a crosswalk.",
+        "keywords": ["stopping", "intersection", "crosswalk", "traffic rules"]
+    },
+    {
+        "citation": "Article 4.16",
+        "section": "4.16",
+        "title": "Stopping Near a Crosswalk",
+        "summary": "Prohibits stopping a vehicle within 10 meters of a crosswalk.",
+        "keywords": ["crosswalk", "pedestrian safety", "stopping restriction"]
+    }
+]

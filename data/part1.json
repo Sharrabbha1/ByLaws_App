@@ -1,0 +1,58 @@
+[
+    {
+        "citation": "Article 4.1",
+        "section": "4.1",
+        "title": "Angle Parking",
+        "summary": "Allows vehicles to park at an angle where signage explicitly permits it.",
+        "keywords": ["angle parking", "parking regulations", "authorized parking"]
+    },
+    {
+        "citation": "Article 4.2",
+        "section": "4.2",
+        "title": "Parking at 90 Degrees",
+        "summary": "Requires vehicles to park at a 90-degree angle in areas where lines are not marked.",
+        "keywords": ["90-degree parking", "vehicle alignment", "designated parking"]
+    },
+    {
+        "citation": "Article 4.3",
+        "section": "4.3",
+        "title": "Parking Within Space",
+        "summary": "Prohibits vehicles from parking outside marked spaces, occupying multiple spaces, or obstructing aisles.",
+        "keywords": ["marked spaces", "parking violation", "space obstruction"]
+    },
+    {
+        "citation": "Article 4.4",
+        "section": "4.4",
+        "title": "Parking Long or Wide Vehicles",
+        "summary": "Allows oversized vehicles to park using multiple spaces if all necessary fees are paid.",
+        "keywords": ["large vehicle parking", "oversized parking", "parking fees"]
+    },
+    {
+        "citation": "Article 4.5",
+        "section": "4.5",
+        "title": "Unauthorized Traffic and Parking Signs",
+        "summary": "Prohibits placing unauthorized traffic or parking signs that mimic official city signage.",
+        "keywords": ["unauthorized signs", "traffic control", "signage regulation"]
+    },
+    {
+        "citation": "Article 4.6",
+        "section": "4.6",
+        "title": "Driving on Sidewalks or Footpaths",
+        "summary": "Prohibits operating a motor vehicle on a sidewalk or footpath, except when crossing at a driveway.",
+        "keywords": ["sidewalk driving", "footpath restriction", "motor vehicle rule"]
+    },
+    {
+        "citation": "Article 4.7",
+        "section": "4.7",
+        "title": "Crossing Curbs",
+        "summary": "Prohibits driving a motor vehicle over any raised curb on a highway.",
+        "keywords": ["curb crossing", "highway safety", "traffic rule"]
+    },
+    {
+        "citation": "Article 4.8",
+        "section": "4.8",
+        "title": "Motorized Snow Vehicles",
+        "summary": "Prohibits operating motorized snow vehicles in specified areas.",
+        "keywords": ["snow vehicle", "winter traffic law", "motorized vehicle ban"]
+    }
+]

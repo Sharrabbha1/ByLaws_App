@@ -1,0 +1,58 @@
+[
+    {
+        "citation": "Article 18.1",
+        "section": "18.1",
+        "title": "Speed Limits in Designated Zones",
+        "summary": "Sets maximum speed limits in specific areas as indicated by official signage.",
+        "keywords": ["speed limit", "traffic control", "road safety"]
+    },
+    {
+        "citation": "Article 19.1",
+        "section": "19.1",
+        "title": "Pedestrian Crossover Regulations",
+        "summary": "Requires vehicles to yield at designated pedestrian crossovers where signage is posted.",
+        "keywords": ["pedestrian safety", "crosswalk rules", "right-of-way"]
+    },
+    {
+        "citation": "Article 20.1",
+        "section": "20.1",
+        "title": "Heavy Vehicle Road Restrictions",
+        "summary": "Prohibits heavy trucks and commercial vehicles from using certain roads except for local deliveries.",
+        "keywords": ["heavy vehicle restriction", "truck ban", "commercial traffic"]
+    },
+    {
+        "citation": "Article 21.2",
+        "section": "21.2",
+        "title": "Bus Stop Parking Restrictions",
+        "summary": "Prohibits stopping any vehicle other than a bus in designated bus stops.",
+        "keywords": ["bus stop parking", "public transport", "no stopping zone"]
+    },
+    {
+        "citation": "Article 21.5",
+        "section": "21.5",
+        "title": "No Stopping in a School Bus Loading Zone",
+        "summary": "Prohibits stopping any vehicle in a designated school bus loading zone.",
+        "keywords": ["school bus zone", "no stopping", "student safety"]
+    },
+    {
+        "citation": "Article 23.3",
+        "section": "23.3",
+        "title": "Accessible Parking Regulations",
+        "summary": "Prohibits parking in designated accessible spaces without a valid permit.",
+        "keywords": ["accessible parking", "disability rights", "parking enforcement"]
+    },
+    {
+        "citation": "Article 23.5",
+        "section": "23.5",
+        "title": "Prohibition on Increased Fees for Accessible Parking",
+        "summary": "Prohibits charging higher parking fees for vehicles displaying valid accessible permits.",
+        "keywords": ["accessible parking fees", "disability rights", "parking enforcement"]
+    },
+    {
+        "citation": "Article 24.2",
+        "section": "24.2",
+        "title": "Parking Violations and Fines",
+        "summary": "Defines violations and fines for illegal parking under the city's administrative penalty system.",
+        "keywords": ["parking fine", "violation", "penalty system"]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "citation": "Article 4.49",
+        "section": "4.49",
+        "title": "Evidence of Unlawful Parking",
+        "summary": "States that if a parking meter or control device indicates a violation, it serves as prima facie evidence that the vehicle is unlawfully parked.",
+        "keywords": ["parking violation", "metered parking", "legal evidence"]
+    },
+    {
+        "citation": "Article 4.50",
+        "section": "4.50",
+        "title": "Designated Bicycle Lanes",
+        "summary": "Prohibits motor vehicles from driving or parking in designated bicycle lanes.",
+        "keywords": ["bicycle lane", "road safety", "cycling rules"]
+    },
+    {
+        "citation": "Article 4.51",
+        "section": "4.51",
+        "title": "Permit Display Requirement",
+        "summary": "Requires all parking permits to be displayed clearly on the windshield or dashboard in a way that is visible from outside the vehicle.",
+        "keywords": ["parking permit", "permit visibility", "permit enforcement"]
+    },
+    {
+        "citation": "Article 4.52",
+        "section": "4.52",
+        "title": "Electric Vehicle Charging Stations",
+        "summary": "Prohibits non-electric vehicles from parking in designated electric vehicle charging station spaces.",
+        "keywords": ["electric vehicle parking", "charging station rules", "EV parking enforcement"]
+    },
+    {
+        "citation": "Article 4.53",
+        "section": "4.53",
+        "title": "Electric Kick-Scooter Usage",
+        "summary": "Allows electric kick-scooters to be operated on roads with speed limits of 50 km/h or less, and in designated bicycle lanes.",
+        "keywords": ["electric scooter", "bicycle lane usage", "road safety rules"]
+    }
+]

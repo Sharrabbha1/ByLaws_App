@@ -1,0 +1,51 @@
+[
+    {
+        "citation": "Article 5.1",
+        "section": "5.1",
+        "title": "Stopping Prohibited on Certain Highways",
+        "summary": "Prohibits stopping on designated highways where signage indicates restrictions.",
+        "keywords": ["no stopping", "restricted highway", "road safety"]
+    },
+    {
+        "citation": "Article 6.1",
+        "section": "6.1",
+        "title": "Parking Prohibited on Certain Highways",
+        "summary": "Prohibits parking on designated highways where signage indicates restrictions.",
+        "keywords": ["parking restriction", "highway parking ban", "road safety"]
+    },
+    {
+        "citation": "Article 6.2",
+        "section": "6.2",
+        "title": "Posted Time Restrictions",
+        "summary": "Restricts parking on certain highways for specific durations as indicated by official signage.",
+        "keywords": ["timed parking", "parking duration", "restricted parking"]
+    },
+    {
+        "citation": "Article 7.1",
+        "section": "7.1",
+        "title": "Standing Prohibited on Certain Highways",
+        "summary": "Prohibits standing a vehicle on certain highways where signage indicates restrictions.",
+        "keywords": ["no standing", "highway standing restriction", "traffic rule"]
+    },
+    {
+        "citation": "Article 8.1",
+        "section": "8.1",
+        "title": "Parking on Private Property Without Consent",
+        "summary": "Prohibits parking a vehicle on private property without the consent of the owner or occupant.",
+        "keywords": ["private property parking", "unauthorized parking", "trespassing"]
+    },
+    {
+        "citation": "Article 8.3",
+        "section": "8.3",
+        "title": "Fire Routes",
+        "summary": "Prohibits parking or stopping a vehicle in designated fire routes.",
+        "keywords": ["fire route", "emergency access", "restricted parking"]
+    },
+    {
+        "citation": "Article 8.4",
+        "section": "8.4",
+        "title": "Parking on Municipal Property Without Consent",
+        "summary": "Prohibits parking on municipal property without the consent of the municipality.",
+        "keywords": ["municipal property parking", "unauthorized parking", "city property rules"]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "citation": "Article 4.17",
+        "section": "4.17",
+        "title": "Blocking Traffic",
+        "summary": "Prohibits stopping or parking in a way that interferes with the movement of traffic.",
+        "keywords": ["blocking traffic", "road obstruction", "traffic flow restriction"]
+    },
+    {
+        "citation": "Article 4.18",
+        "section": "4.18",
+        "title": "Interference with Snow Clearing",
+        "summary": "Prohibits stopping a vehicle in a way that interferes with snow clearing or the application of sand/salt.",
+        "keywords": ["snow clearing", "parking restriction", "winter parking"]
+    },
+    {
+        "citation": "Article 4.19",
+        "section": "4.19",
+        "title": "Interference with Highway Cleaning",
+        "summary": "Prohibits stopping a vehicle in a way that interferes with street cleaning operations.",
+        "keywords": ["highway cleaning", "parking restriction", "road maintenance"]
+    },
+    {
+        "citation": "Article 4.20",
+        "section": "4.20",
+        "title": "Double Parking",
+        "summary": "Prohibits stopping or parking a vehicle alongside another stopped or parked vehicle on the roadway.",
+        "keywords": ["double parking", "traffic obstruction", "road safety"]
+    },
+    {
+        "citation": "Article 4.21",
+        "section": "4.21",
+        "title": "Stopping on Bridges or Tunnels",
+        "summary": "Prohibits stopping a vehicle on a bridge, elevated structure, tunnel, or underpass.",
+        "keywords": ["bridge stopping", "tunnel stopping", "roadway obstruction"]
+    },
+    {
+        "citation": "Article 4.22",
+        "section": "4.22",
+        "title": "Stopping on or Adjacent to a Median Strip",
+        "summary": "Prohibits stopping a vehicle on a highway median strip or adjacent to it.",
+        "keywords": ["median strip", "highway safety", "stopping restriction"]
+    },
+    {
+        "citation": "Article 4.23",
+        "section": "4.23",
+        "title": "Blocking Crosswalks or Intersections",
+        "summary": "Prohibits stopping or parking a vehicle in a way that obstructs pedestrian crosswalks or road intersections.",
+        "keywords": ["crosswalk obstruction", "intersection parking", "pedestrian safety"]
+    },
+    {
+        "citation": "Article 4.24",
+        "section": "4.24",
+        "title": "Stopping Near a Pedestrian Crossover",
+        "summary": "Prohibits stopping a vehicle within 30 meters before or 15 meters after a pedestrian crossover.",
+        "keywords": ["pedestrian crossover", "crossing safety", "stopping rules"]
+    }
+]

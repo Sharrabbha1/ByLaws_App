@@ -384,16 +384,47 @@ function MainTabNavigator() {
 }
 
 // Root App
+// export default function App() {
+//   return (
+//     <NavigationContainer>
+//       <Stack.Navigator screenOptions={{ headerShown: false }}>
+//         <Stack.Screen name="AuthStack" component={AuthStack} />
+//         <Stack.Screen name="MainApp" component={MainTabNavigator} />
+//       </Stack.Navigator>
+//     </NavigationContainer>
+//   );
+// }
+// export default function App() {
+//   return (
+//     <NavigationContainer>
+//       <Stack.Navigator screenOptions={{ headerShown: false }}>
+//         <Stack.Screen name="AuthStack" component={AuthStack} />
+//         <Stack.Screen name="MainApp" component={MainTabNavigator} />
+
+//         {/* ✅ Make these accessible globally */}
+//         <Stack.Screen name="ForgotPasswordScreen" component={ForgotPasswordScreen} />
+//         <Stack.Screen name="MyReportsPage" component={MyReportsPage} />
+//       </Stack.Navigator>
+//     </NavigationContainer>
+//   );
+// }
 export default function App() {
   return (
     <NavigationContainer>
       <Stack.Navigator screenOptions={{ headerShown: false }}>
         <Stack.Screen name="AuthStack" component={AuthStack} />
         <Stack.Screen name="MainApp" component={MainTabNavigator} />
+        <Stack.Screen name="ForgotPasswordScreen" component={ForgotPasswordScreen} />
+
+        {/* ❌ REMOVE these two 👇 */}
+        {/* <Stack.Screen name="MyReportsPage" component={MyReportsPage} /> */}
+        {/* <Stack.Screen name="ReportDetailsPage" component={ReportDetailsPage} /> */}
       </Stack.Navigator>
     </NavigationContainer>
   );
 }
+
+
 
 const styles = {
   tabBar: {

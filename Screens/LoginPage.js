@@ -11,7 +11,7 @@ export default function LoginPage({ navigation }) {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
-    // ✅ Register User's Device for Notifications After Login
+    // Register User's Device for Notifications After Login
     const saveUserToken = async (uid) => {
         try {
             const pushToken = await registerForPushNotificationsAsync();
@@ -24,7 +24,7 @@ export default function LoginPage({ navigation }) {
         }
     };
 
-    // ✅ Handle User Login
+    // Handle User Login
     const handleLogin = async () => {
         if (!email || !password) {
             Alert.alert("Error", "Please enter email and password.");
@@ -37,12 +37,12 @@ export default function LoginPage({ navigation }) {
 
             console.log("User logged in:", user.email);
 
-            // ✅ Register & Save Push Token in Firestore
+            // Register & Save Push Token in Firestore
             await saveUserToken(user.uid);
 
             Alert.alert("Success", "Login successful!");
 
-            // ✅ Navigate to MainApp (Which contains CitizenDashboard)
+            // Navigate to MainApp (Which contains CitizenDashboard)
             navigation.replace("MainApp");
 
         } catch (error) {

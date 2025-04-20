@@ -12,6 +12,6 @@
 
 | Reports Info Page | Forgot Password Page |
 |-------------------|-----------------------|
-| ![Info](https://github.com/user-attachments/assets/0adba3cc-1e12-4b98-90f5-2e9ff038ba10) | ![Forgot](![image](https://github.com/user-attachments/assets/620e7a48-f89d-4783-b2e6-7194fffb4421)
+| ![Info](https://github.com/user-attachments/assets/0adba3cc-1e12-4b98-90f5-2e9ff038ba10) | ![image](https://github.com/user-attachments/assets/620e7a48-f89d-4783-b2e6-7194fffb4421)
 ).|
 ) |

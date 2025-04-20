@@ -4,7 +4,7 @@
 
 | Application Page | Image Upload Page |
 |------------------|-------------------|
-| ![App](https://github.com/user-attachments/assets/1a6b7a13-fcd8-4357-b111-a6352a3151dc) | ![Upload](https://github.com/user-attachments/assets/1a6b7a13-fcd8-4357-b111-a6352a3151dc) |
+| ![App](https://github.com/user-attachments/assets/1a6b7a13-fcd8-4357-b111-a6352a3151dc) | ![Upload](https://images-ext-1.discordapp.net/external/ButcQvskXj-mLx7pdXyjMk8AWq8HhzTuGEwvrLwoAkQ/https/github.com/user-attachments/assets/e8d212ff-bddf-4a1e-8d8a-a600650b559e?format=webp&width=191&height=416) |
 
 | Additional Details Page | My Reports Page |
 |-------------------------|-----------------|

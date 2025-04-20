@@ -13,25 +13,25 @@ export default function MyReportsPage({navigation}) {
         fetchUserReports();
     }, []);
 
-    // ✅ Fetch reports submitted by the logged-in user
+    // Fetch reports submitted by the logged-in user
     const fetchUserReports = async () => {
         setLoading(true);
         try {
             const user = auth.currentUser;
             if (!user) {
-                console.warn("🚨 User not authenticated.");
+                console.warn("User not authenticated.");
                 setLoading(false);
                 return;
             }
     
-            console.log("🔍 Fetching reports for user:", user.uid);
+            console.log("Fetching reports for user:", user.uid);
     
             const reportsRef = collection(firestore, "reports");
-            const q = query(reportsRef, where("userId", "==", user.uid));  // ✅ Filter by userId
+            const q = query(reportsRef, where("userId", "==", user.uid));  // Filter by userId
             const snapshot = await getDocs(q);
     
             if (snapshot.empty) {
-                console.warn("⚠️ No reports found for this user.");
+                console.warn("No reports found for this user.");
             }
     
             const userReports = snapshot.docs.map(doc => ({
@@ -42,12 +42,12 @@ export default function MyReportsPage({navigation}) {
             console.log("📜 Retrieved reports:", userReports);
             setReports(userReports);
         } catch (error) {
-            console.error("🔥 Error fetching reports:", error);
+            console.error("Error fetching reports:", error);
         }
         setLoading(false);
     };
     
-    // ✅ Get dynamic status colors
+    // Get dynamic status colors
     const getStatusStyle = (status) => {
         switch (status) {
             case 'Approved': return { backgroundColor: '#bde5bf', color: '#2d6a4f' }; // Green
@@ -86,7 +86,7 @@ export default function MyReportsPage({navigation}) {
 
             ) : (
                 <View style={styles.emptyContainer}>
-                    <Text style={styles.emptyMessage}>📂 No reports found</Text>
+                    <Text style={styles.emptyMessage}>No reports found</Text>
                     <Text style={styles.emptySubtitle}>You have not submitted any reports yet.</Text>
                 </View>
             )}

@@ -8,7 +8,7 @@
 
 | Additional Details Page | My Reports Page |
 |-------------------------|-----------------|
-| ![Details](https://github.com/user-attachments/assets/5699ae89-e9f4-4b66-91bf-8a1a17de8948) | ![My Reports](https://github.com/user-attachments/assets/594108d0-00b8-4e69-8ca9-a43d9c1d8a12) |
+| ![Details](https://github.com/user-attachments/assets/5699e8a9-e9f4-4b66-91bf-8a1a17de8948) | ![My Reports](https://github.com/user-attachments/assets/59410dd0-00bb-4e69-8ca9-43d9c1d8a12a) |
 
 | Reports Info Page | Forgot Password Page |
 |-------------------|-----------------------|

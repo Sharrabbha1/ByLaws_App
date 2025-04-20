@@ -6,7 +6,8 @@
 
 <p>Application Page</p>
 
-![image](https://github.com/user-attachments/assets/cc3e7a5f-342d-4d1c-9350-3190ce41ba73)
+![image](https://github.com/user-attachments/assets/e8d212ff-bddf-4a1e-8d8a-a600650b559e)
+
 
 <p>Image upload Page</p>
 
